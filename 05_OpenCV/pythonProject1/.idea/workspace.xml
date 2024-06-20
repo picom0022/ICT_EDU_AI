@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9a88c7c-fc03-4677-979e-d8dc0310bb38" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../02_Machine_Learning/02_선형회귀모델의 이해.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_Machine_Learning/02_선형회귀모델의 이해.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_Machine_Learning/03_일반화된 선형 회귀 모델.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_Machine_Learning/03_일반화된 선형 회귀 모델.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_Tensorflow/.ipynb_checkpoints/03_DNN을 활용한 날씨 예측-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Tensorflow/.ipynb_checkpoints/03_DNN을 활용한 날씨 예측-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_Tensorflow/03_DNN을 활용한 날씨 예측.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Tensorflow/03_DNN을 활용한 날씨 예측.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2i1yV0lauwl6hJ8Y48rxbImdqCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.day01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_04(Video).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_05(video).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_06(Otsu).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_07(labeling).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_08().executor&quot;: &quot;Run&quot;,
+    &quot;Python.day01_cam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ICT05_01/Desktop/python/05_OpenCV/opencv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ICT05_01\Desktop\python\05_OpenCV\opencv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ICT05_01\Desktop\python\05_OpenCV\opencv" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="f9a88c7c-fc03-4677-979e-d8dc0310bb38" name="변경" comment="" />
+      <created>1718672398117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718672398117</updated>
+      <workItem from="1718672399328" duration="15567000" />
+      <workItem from="1718757527049" duration="3542000" />
+      <workItem from="1718844773328" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/opencv$day01_04_Video_.coverage" NAME="day01_04(Video) 커버리지 결과" MODIFIED="1718676785815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_07_labeling_.coverage" NAME="day01_07(labeling) 커버리지 결과" MODIFIED="1718683231480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_cam02.coverage" NAME="day01_cam02 커버리지 결과" MODIFIED="1718675503269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/pythonProject1$day01_08__.coverage" NAME="day01_08() 커버리지 결과" MODIFIED="1718757880030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_03.coverage" NAME="day01_03 커버리지 결과" MODIFIED="1718676112947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_06_Otsu_.coverage" NAME="day01_06(Otsu) 커버리지 결과" MODIFIED="1718679505418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01.coverage" NAME="day01 커버리지 결과" MODIFIED="1718673457702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_05_video_.coverage" NAME="day01_05(video) 커버리지 결과" MODIFIED="1718678429645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_08__.coverage" NAME="day01_08() 커버리지 결과" MODIFIED="1718683924483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$run.coverage" NAME="run 커버리지 결과" MODIFIED="1718691005651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+  </component>
+</project>
