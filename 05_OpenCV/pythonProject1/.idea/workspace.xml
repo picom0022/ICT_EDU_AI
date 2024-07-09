@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9a88c7c-fc03-4677-979e-d8dc0310bb38" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../../02_Machine_Learning/02_선형회귀모델의 이해.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_Machine_Learning/02_선형회귀모델의 이해.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_Machine_Learning/03_일반화된 선형 회귀 모델.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_Machine_Learning/03_일반화된 선형 회귀 모델.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_Tensorflow/.ipynb_checkpoints/03_DNN을 활용한 날씨 예측-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Tensorflow/.ipynb_checkpoints/03_DNN을 활용한 날씨 예측-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_Tensorflow/03_DNN을 활용한 날씨 예측.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_Tensorflow/03_DNN을 활용한 날씨 예측.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencv/catcam/catcam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../opencv/classify/classify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.day01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_04(Video).executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_05(video).executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_06(Otsu).executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_07(labeling).executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_08().executor&quot;: &quot;Run&quot;,
-    &quot;Python.day01_cam02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.run.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ICT05_01/Desktop/python/05_OpenCV/opencv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.catcam.executor": "Run",
+    "Python.classify.executor": "Run",
+    "Python.day01.executor": "Run",
+    "Python.day01_03.executor": "Run",
+    "Python.day01_04(Video).executor": "Run",
+    "Python.day01_05(video).executor": "Run",
+    "Python.day01_06(Otsu).executor": "Run",
+    "Python.day01_07(labeling).executor": "Run",
+    "Python.day01_08().executor": "Run",
+    "Python.day01_cam02.executor": "Run",
+    "Python.dnnface.executor": "Run",
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ICT05_01/Desktop/python/05_OpenCV/opencv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ICT05_01\Desktop\python\05_OpenCV\opencv" />
@@ -92,7 +94,7 @@
       <updated>1718672398117</updated>
       <workItem from="1718672399328" duration="15567000" />
       <workItem from="1718757527049" duration="3542000" />
-      <workItem from="1718844773328" duration="348000" />
+      <workItem from="1718844773328" duration="8726000" />
     </task>
     <servers />
   </component>
@@ -112,14 +114,17 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/opencv$day01_04_Video_.coverage" NAME="day01_04(Video) 커버리지 결과" MODIFIED="1718676785815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/pythonProject1$classify.coverage" NAME="classify 커버리지 결과" MODIFIED="1718848435268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv/classify" />
+    <SUITE FILE_PATH="coverage/opencv$day01_03.coverage" NAME="day01_03 커버리지 결과" MODIFIED="1718676112947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_06_Otsu_.coverage" NAME="day01_06(Otsu) 커버리지 결과" MODIFIED="1718679505418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$day01_08__.coverage" NAME="day01_08() 커버리지 결과" MODIFIED="1718683924483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/opencv$run.coverage" NAME="run 커버리지 결과" MODIFIED="1718691005651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/pythonProject1$catcam.coverage" NAME="catcam 커버리지 결과" MODIFIED="1718852848913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv/catcam" />
     <SUITE FILE_PATH="coverage/opencv$day01_07_labeling_.coverage" NAME="day01_07(labeling) 커버리지 결과" MODIFIED="1718683231480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
     <SUITE FILE_PATH="coverage/opencv$day01_cam02.coverage" NAME="day01_cam02 커버리지 결과" MODIFIED="1718675503269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
     <SUITE FILE_PATH="coverage/pythonProject1$day01_08__.coverage" NAME="day01_08() 커버리지 결과" MODIFIED="1718757880030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
-    <SUITE FILE_PATH="coverage/opencv$day01_03.coverage" NAME="day01_03 커버리지 결과" MODIFIED="1718676112947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
-    <SUITE FILE_PATH="coverage/opencv$day01_06_Otsu_.coverage" NAME="day01_06(Otsu) 커버리지 결과" MODIFIED="1718679505418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
     <SUITE FILE_PATH="coverage/opencv$day01.coverage" NAME="day01 커버리지 결과" MODIFIED="1718673457702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
+    <SUITE FILE_PATH="coverage/pythonProject1$dnnface.coverage" NAME="dnnface 커버리지 결과" MODIFIED="1718851764903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv/dnnface" />
     <SUITE FILE_PATH="coverage/opencv$day01_05_video_.coverage" NAME="day01_05(video) 커버리지 결과" MODIFIED="1718678429645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
-    <SUITE FILE_PATH="coverage/opencv$day01_08__.coverage" NAME="day01_08() 커버리지 결과" MODIFIED="1718683924483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
-    <SUITE FILE_PATH="coverage/opencv$run.coverage" NAME="run 커버리지 결과" MODIFIED="1718691005651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../opencv" />
   </component>
 </project>
